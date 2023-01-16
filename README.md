@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **singhamit829888@gmail.com**
 
-- ⚡ Fun fact **I am an half introvert 🙂🙂**
+- ⚡ Fun fact **I am a half introvert 🙂🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
