@@ -1,3 +1,4 @@
+[![MasterHead](https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsingh000&show_icons=true&locale=en" alt="amitsingh000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsingh000&" alt="amitsingh000" /></p>
+
