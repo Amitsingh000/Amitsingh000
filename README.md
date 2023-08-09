@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh000&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh000" /> </p>
 
-- 🌱 I’m currently learning **Flask,FastAPI,JavaScript**
+- 🌱 I’m currently learning **React,JavaScript,Flask,FastAPI,**
 
-- 💬 Ask me about **Python,Django,HTML5,CSS3,Bootstrap**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,Python,Django**
 
 - 📫 How to reach me **singhamit829888@gmail.com**
 
