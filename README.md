@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh000&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh000" /> </p>
 
-- 🌱 I’m currently learning **React,JavaScript,Flask,FastAPI,**
+- 🌱 I’m currently learning **JavaScript,Reactjs,**
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,Python,Django**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,Python,**
 
 - 📫 How to reach me **singhamit829888@gmail.com**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsingh000&show_icons=true&locale=en" alt="amitsingh000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsingh000&" alt="amitsingh000" /></p>
-
