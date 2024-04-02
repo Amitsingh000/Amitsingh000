@@ -1,14 +1,14 @@
 [![MasterHead](https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966)
 <h1 align="center">Hi 👋, I'm Amit Singh</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<h3 align="center">A passionate Software engineer (Frontend-web developer) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh000&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh000" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,Reactjs,**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,Python,**
+- 💬 Ask me about **HTML5,CSS3,JavaScript,Bootstrap,Reactjs,jQuery,Python,**
 
 - 📫 How to reach me **singhamit829888@gmail.com**
 
